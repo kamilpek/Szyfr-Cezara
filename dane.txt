@@ -1,0 +1,9 @@
+jeden
+dwa
+trzy
+one
+two
+three
+eins
+zwei
+drei
